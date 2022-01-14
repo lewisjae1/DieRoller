@@ -12,7 +12,7 @@ namespace DieRoller
     public class Die
     {
         /// <summary>
-        /// Create sthe die and rolls it to start with
+        /// Creates the die and rolls it to start with
         /// a random number1
         /// </summary>
         public Die()
